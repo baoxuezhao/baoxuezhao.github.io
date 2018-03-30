@@ -1,5 +1,5 @@
-#Courses & Tutorial
-##Parallel & Distributed Database
+#Courses and Tutorial
+##Parallel and Distributed Database
 NUS-CS5225: Parallel and Distributed Databases(http://www.comp.nus.edu.sg/~cs5225/)
 
 #Compiler & Debugging
